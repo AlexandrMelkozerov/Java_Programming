@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea16e9e8-08d6-4806-9177-2d20ed406486" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr1/example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/example13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr1/example12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <recent name="lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.example11">
+  <component name="RunManager" selected="Application.example13">
     <configuration name="example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr1.example10" />
       <module name="MyFirstApp" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.example6" />
+    <configuration name="example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.example12" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.example8" />
+    <configuration name="example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.example13" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.example11" />
+        <item itemvalue="Application.example13" />
+        <item itemvalue="Application.example12" />
         <item itemvalue="Application.example10" />
+        <item itemvalue="Application.example11" />
         <item itemvalue="Application.example9" />
-        <item itemvalue="Application.example8" />
-        <item itemvalue="Application.example6" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669146245927</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1669188160091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669188160091</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
