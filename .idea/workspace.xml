@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea16e9e8-08d6-4806-9177-2d20ed406486" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr1/example13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/example14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task1293.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
       <recent name="lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.example15">
+  <component name="RunManager" selected="Application.task1000">
     <configuration name="example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr1.example13" />
       <module name="MyFirstApp" />
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.example6" />
+    <configuration name="task1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task1000" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.example9" />
+    <configuration name="task1293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task1293" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task1000" />
+        <item itemvalue="Application.task1293" />
         <item itemvalue="Application.example15" />
         <item itemvalue="Application.example14" />
         <item itemvalue="Application.example13" />
-        <item itemvalue="Application.example9" />
-        <item itemvalue="Application.example6" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669211194282</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1669391583632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669391583632</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
