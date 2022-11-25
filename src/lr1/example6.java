@@ -12,7 +12,7 @@ public class example6 {
         String firstname = in.nextLine();
         System.out.println("Введите отчество" );
         String secondname = in.nextLine();
-        System.out.printf("Привет  %s  %s  %s \n", lastname, firstname, secondname);
+        System.out.printf("Привет  %s %s  %s \n", lastname, firstname, secondname);
         in.close();
 
 
