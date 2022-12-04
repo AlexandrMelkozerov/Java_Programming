@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea16e9e8-08d6-4806-9177-2d20ed406486" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/lr2/example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task2100.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/example9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +47,13 @@
       <recent name="lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.example8">
-    <configuration name="example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.example14" />
+  <component name="RunManager" selected="Application.example2">
+    <configuration name="example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.example2" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.example15" />
+    <configuration name="example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.example3" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.example8" />
+    <configuration name="example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.example4" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task1000" />
+    <configuration name="example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.example5" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task1293" />
+    <configuration name="task2100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task2100" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.example8" />
-        <item itemvalue="Application.example14" />
-        <item itemvalue="Application.task1000" />
-        <item itemvalue="Application.task1293" />
-        <item itemvalue="Application.example15" />
+        <item itemvalue="Application.example2" />
+        <item itemvalue="Application.task2100" />
+        <item itemvalue="Application.example4" />
+        <item itemvalue="Application.example3" />
+        <item itemvalue="Application.example5" />
       </list>
     </recent_temporary>
   </component>
