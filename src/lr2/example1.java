@@ -8,11 +8,8 @@ public class example1 {
         Scanner in = new Scanner(System.in);
         System.out.println("input number");
         int n = in.nextInt();
-        System.out.println("The number " + (n % 3 !=0 ? "is not " : "") + "divsible by 3");
+        System.out.println("The number " + (n % 3 !=0 ? "is not " : "") + "divisible by 3");
         in.close();
-
-
-
 
     }
 
