@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea16e9e8-08d6-4806-9177-2d20ed406486" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr7/example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1197.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1264.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1639.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1787.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1820.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1877.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1880.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1910.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1924.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task2001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task2012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task2066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task1010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task1349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task1617.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,20 +48,7 @@
       <recent name="lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task1068">
-    <configuration name="task1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task1001" />
-      <module name="MyFirstApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="timus.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.task1349">
     <configuration name="task1068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="timus.task1068" />
       <module name="MyFirstApp" />
@@ -104,12 +75,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1787" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task1787" />
+    <configuration name="task1349" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task1349" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1785" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task1785.task1785" />
+      <module name="MyFirstApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.task1785.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task1349" />
+        <item itemvalue="Application.task1785" />
         <item itemvalue="Application.task1068" />
         <item itemvalue="Application.task1209" />
         <item itemvalue="Application.task1820" />
-        <item itemvalue="Application.task1001" />
-        <item itemvalue="Application.task1787" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673287174778</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="initial commit">
+      <created>1673375373378</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673375373378</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +250,11 @@
           <url>file://$PROJECT_DIR$/src/lr1/example14.java</url>
           <line>4</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timus/task1785/task1785.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
