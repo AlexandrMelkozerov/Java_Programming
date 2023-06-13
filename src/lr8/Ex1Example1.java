@@ -1,6 +1,6 @@
 package lr8;
 import java.io.File;
-public class Example1 {
+public class Ex1Example1 {
     public static void main(String[] args) {
         try {
             // Создание файла в текущей папке (где расположен файл Example1.java)

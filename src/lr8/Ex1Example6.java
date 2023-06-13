@@ -1,7 +1,7 @@
 package lr8;
 
 import java.io.*;
-public class Example6 {
+public class Ex1Example6 {
     public static void main(String[] args) throws IOException {
         Reader in = null;   // можно сразу записать FileReader in=null;
         Writer out = null;  // можно сразу записать FileWriter out=null;

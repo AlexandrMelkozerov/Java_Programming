@@ -1,7 +1,7 @@
 package lr8;
 
 import java.io.*;
-public class Example10 {
+public class Ex1Example10 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = null;
         PrintWriter out = null;

@@ -1,6 +1,6 @@
 package lr8;
 import java.io.*;
-public class Example7 {
+public class Ex1Example7 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = null;
         BufferedWriter out = null;

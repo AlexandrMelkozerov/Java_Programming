@@ -2,7 +2,7 @@ package lr8;
 
 import java.io.*;
 import java.util.Scanner;
-public class Example4 {
+public class Ex1Example4 {
     public static void main(String[] args) {
         try{
             // Создание исходного файла numIsh.txt и запись в него чисел типа float

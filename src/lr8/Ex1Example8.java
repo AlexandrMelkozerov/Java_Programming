@@ -2,7 +2,7 @@ package lr8;
 
 import java.io.*;
 import java.net.URL;
-public class Example8 {
+public class Ex1Example8 {
     public static void readAllByByte( Reader in) throws IOException {
         while (true) {
             int oneByte = in.read(); // читает 1 байт

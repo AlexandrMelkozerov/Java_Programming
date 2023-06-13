@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
-public class Example2 {
+public class Ex1Example2 {
     public static void readAllByByte(InputStream in) throws IOException {
         while (true) {
             int oneByte = in.read(); //читает 1 байт

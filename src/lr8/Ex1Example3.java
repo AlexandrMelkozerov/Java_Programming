@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Arrays;
-public class Example3 {
+public class Ex1Example3 {
 
     public static void readAllByArray(InputStream in) throws IOException {
         byte [] buff = new byte[5];
