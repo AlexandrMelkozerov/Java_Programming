@@ -1,5 +1,9 @@
 package Durak;
+
 import Durak.Rank;
+
+import java.util.ArrayList;
+
 public class Card {
     private String suit;
     private Rank rank;
@@ -8,6 +12,23 @@ public class Card {
     public Card(String suit, Rank rank) {
         this.suit = suit;
         this.rank = rank;
+    }
+
+    public static boolean isTrump(Card card, Card trumpCard) {
+        if (card.getSuit() == trumpCard.getSuit() || card.getRank() == trumpCard.getRank()) {
+            return true;
+        }
+        return false;
+    }
+
+    public ArrayList<Card> getAttackCards(Player player, Card trumpCard) {
+        ArrayList<Card> attackCards = new ArrayList<Card>();
+        for (Card card : player.getHand()) {
+            if (card != null && !Card.isTrump(card, trumpCard)) {
+                attackCards.add(card);
+            }
+        }
+        return attackCards;
     }
 
     public String getSuit() {
@@ -34,6 +55,7 @@ public class Card {
     public String toString() {
         return this.rank.toString() + " of " + this.suit;
     }
+
     public void setTrump(boolean isTrump) {
         this.isTrump = isTrump;
     }
