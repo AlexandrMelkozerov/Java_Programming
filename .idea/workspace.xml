@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0d27c77-aeff-4774-ac03-b3e634d7814b" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/Durak/DurakGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Durak/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Durak/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Durak/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Durak/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Durak/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Durak/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2HdnmcJpU4geHL2gdyNxuZCtLGB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,14 +36,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Durak.Game.executor": "Run",
+    "Application.DurakGUI.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/downloads/javafx-sdk-20.0.1/lib/javafx.base.jar",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.language"
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -53,7 +57,7 @@
       <recent name="lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Durak.Game">
+  <component name="RunManager" selected="Application.DurakGUI">
     <configuration name="DurakGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Durak.DurakGUI" />
       <module name="MyFirstApp" />
@@ -121,13 +125,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Durak.Game" />
         <item itemvalue="Application.DurakGUI" />
+        <item itemvalue="Application.Durak.Game" />
         <item itemvalue="Application.Game" />
         <item itemvalue="Application.task1015" />
         <item itemvalue="Application.task1005" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -137,6 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668623990003</updated>
+      <workItem from="1704686724172" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1669145909875</created>
@@ -245,6 +257,9 @@
     </task>
     <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
